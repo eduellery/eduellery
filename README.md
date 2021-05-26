@@ -4,9 +4,9 @@ My name is Eduardo Ellery, I'm a Software Engineer/Architect.
 
 I'm a podcast addict 🎧. I love coffee ☕, comics 📚 and sports 🏅.
 
-I have a daughter and I just try to be the best dad I can 💪
+I have a daughter and I just try to be the best dad I can 💪.
 
-- 🔭 I’m currently working on *something secret* 🤫 
+- 🔭 I’m currently working on personal projects 🤫 
 - 🌞 My day job is at Unzer
 - 📫 How to reach me: `@eduellery` (everywhere basically)
 - 😄 Pronouns: He/Him
