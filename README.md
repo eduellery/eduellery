@@ -10,7 +10,7 @@ I have a daughter 👧 and I just try to be the best dad I can 💪.
 - 🌞 My day job is at Unzer, my nigth job is at B.P.R.D 🤓
 - 📫 How to reach me: `@eduellery` (almost everywhere, but I'll add some badges below)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I already run 2 marathons. The last one I trained my wife and we did it together 🧑‍🤝‍🧑 🏃‍♂️ 🏃‍♀️
+- ⚡ Fun fact: I already run 2 marathons. The last one I trained my wife and we did it together 🏃‍♂️ 🏃‍♀️
 
 <!--
 ![eduellery top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduellery)
