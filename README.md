@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+[![Github Badge](https://img.shields.io/badge/-eduellery-grey?style=flat&logo=github&logoColor=white&link=https://github.com/eduellery/)](https://www.github.com/eduellery/)
 [![Linkedin Badge](https://img.shields.io/badge/-eduellery-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduellery/)](https://www.linkedin.com/in/eduellery/)
 [![Protonmail Badge](https://img.shields.io/badge/eduellery@pm.me-8B89CC?style=flat&logo=protonmail&logoColor=white&link=mailto:eduellery@pm.me)](mailto:eduellery@pm.me) 
-[![Twitter Badge](https://img.shields.io/badge/-eduellery-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/eduellery/)](https://www.twitter.com/eduellery/) 
+[![Twitter Badge](https://img.shields.io/badge/-eduellery-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/eduellery/)](https://www.twitter.com/eduellery/)
+[![Gmail Badge](https://img.shields.io/badge/-eduellery@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduellery@gmail.com)](mailto:eduellery@gmail.com)
