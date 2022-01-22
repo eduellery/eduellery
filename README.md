@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-My name is Eduardo Ellery, I'm a SW Engineer / SW Architect / Tech Lead.
+My name is Eduardo Ellery, I'm a SW Engineer | SW Architect | Tech Lead.
 
-I'm a podcast addict 🎧, coffee lover ☕, comic books reader 📚 and sports passionate 🏅.
+I'm a podcast addict, coffee lover and sports passionate. I used to read a lot of comic books. Don't do it so often anymore, but still like reading occasionally.
 
-I have a daughter 👧 and I just try to be the best dad I can 💪.
+I have a daughter and I just try to be the best dad I can.
 
 - 🔭 I’m currently working on personal projects 🤫 
-- 🌞 My day job is at Hilti, my nigth job is at B.P.R.D 🤓
-- 📫 How to reach me: `@eduellery` (almost everywhere, but I'll add some badges below)
-- 😄 Pronouns: He/Him
+- 🌞 My day job is at Hilti, my nigth job is at B.P.R.D 🌝
+- 📫 How to reach me: often by `@eduellery` (but I'll add some badges below)
+- 😊 Pronouns: He/Him
 - ⚡ Fun fact: I already run 2 marathons. The last one I trained my wife and we did it together 🏃‍♂️ 🏃‍♀️
 
 <!--
