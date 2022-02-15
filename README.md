@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Eduardo Ellery, I'm a SW Engineer | SW Architect | Tech Lead.
+My name is Eduardo Ellery,
+
+I usually work as a combination of `["Software Engineer", "Software Architect", "Tech Lead"]`
 
 I'm a podcast addict, coffee lover and sports passionate. I used to read a lot of comic books. Don't do it so often anymore, but still like reading occasionally.
 
