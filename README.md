@@ -2,17 +2,21 @@
 
 My name is Eduardo Ellery,
 
-I usually work as a combination of `["Software Engineer", "Software Architect", "Tech Lead"]`
+I work as a Tech Lead / Software Architect / Software Engineer.
+I've been an Engineering Manager before and it's something I also enjoy. 😊
 
-I'm a podcast addict, coffee lover and sports passionate. I used to read a lot of comic books. Don't do it so often anymore, but still like reading occasionally.
+I'm a podcast addict, coffee lover and sports passionate.
+I used to read a lot of comic books, but I don't do it so often anymore.
 
-I have a daughter and I just try to be the best dad I can.
+I have a daughter 👧 and I just try to be the best dad I can be. She is the most important thing in my life. 🥰
 
-- 🔭 I’m currently working on personal projects 🤫 
-- 🌞 My day job is at Hilti, my nigth job is at B.P.R.D 🌝
-- 📫 How to reach me: often by `@eduellery` (but I'll add some badges below)
+- 🔭 I’m currently working on some personal projects 🤫 
+- 🌞 My day job is at Hilti, and my night job is at B.P.R.D. (hehe) 🌝
+- 📫 How to reach me: usually by `@eduellery` (but I'll add some badges below anyway)
 - 😊 Pronouns: He/Him
-- ⚡ Fun fact: I already run 2 marathons. The last one I trained my wife and we did it together 🏃‍♂️ 🏃‍♀️
+- ⚡ Fun fact: I already run 2 marathons. For the last one, I trained my wife and we did it together 🏃‍♂️ 🏃‍♀️
+
+_"Machines are talking about you behind your back"_ - Douglas Coupland
 
 <!--
 ![eduellery top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduellery)
