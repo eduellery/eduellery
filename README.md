@@ -3,7 +3,7 @@
 My name is Eduardo Ellery,
 
 I work as a Tech Lead / Software Architect / Software Engineer.
-I've been an Engineering Manager before and it's something I also enjoy. 😊
+I've been an Engineering Manager before and it's something I also enjoy doing. 😊
 
 I'm a podcast addict, coffee lover and sports passionate.
 I used to read a lot of comic books, but I don't do it so often anymore.
