@@ -1,19 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
-My name is Eduardo Ellery,
+My name is Eduardo Ellery, and I'm a skilled Tech Lead, Software Architect, and Software Engineer with experience as an Engineering Manager. I have a passion for leading technical teams and delivering high-quality software solutions. 😊
 
-I work as a Tech Lead / Software Architect / Software Engineer.
-I've been an Engineering Manager before and it's something I also enjoy doing. 😊
+When I'm not working, you can find me indulging in my hobbies like listening to podcasts, enjoying a good cup of coffee, and watching sports. I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
 
-I'm a podcast addict, coffee lover and sports passionate.
-I used to read a lot of comic books, but I don't do it so often anymore.
-
-I have a daughter 👧 and I just try to be the best dad I can be. She is the most important thing in my life. 🥰
-
-- 🔭 I’m currently working on some personal projects 🤫 
-- 🌞 My day job is at Hilti, and my night job is at B.P.R.D. (hehe) 🌝
-- 📫 How to reach me: usually by `@eduellery` (but I'll add some badges below anyway)
-- 😊 Pronouns: He/Him
+- 🔭 I’m currently working on some exciting personal projects 🤫 
+- 🌞 You can find me working at Hilti during the day and doing some side hustle at B.P.R.D. during the night 🌝
+- 📫 Feel free to reach out to me through my social media handle `@eduellery` or using the contact badges below
+- 😊 My pronouns are He/Him
 - ⚡ Fun fact: I already run 2 marathons. For the last one, I trained my wife and we did it together 🏃‍♂️ 🏃‍♀️
 
 _"Machines are talking about you behind your back"_ - Douglas Coupland
