@@ -5,7 +5,7 @@ My name is Eduardo Ellery, and I'm a skilled Tech Lead, Software Architect, and 
 When I'm not working, you can find me indulging in my hobbies like listening to podcasts, enjoying a good cup of coffee, and watching sports. I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
 
 - 🔭 I’m currently working on some exciting personal projects 🤫 
-- 🌞 You can find me working at Hilti during the day and doing some side hustle at B.P.R.D. during the night 🌝
+- ☀️ You can find me working at Hilti during the day and doing some side hustle at B.P.R.D. during the night 🌙
 - 📫 Feel free to reach out to me through my social media handle `@eduellery` or using the contact badges below
 - 😊 My pronouns are He/Him
 - ⚡ Fun fact: I already run 2 marathons. For the last one, I trained my wife and we did it together 🏃‍♂️ 🏃‍♀️
