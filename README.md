@@ -1,14 +1,16 @@
 ### Hello there 👋
 
-My name is Eduardo Ellery and I'm a Tech Lead, previously working as Software Architect and Software Engineer with experience as an Engineering Manager. I have a passion for leading technical teams and delivering high-quality software solutions. 😊
+My name is Eduardo Ellery and I'm a Tech Lead, previously working as a Software Architect/Engineer with experience as an Engineering Manager.
+I have a passion for leading technical teams and delivering high-quality software solutions. 😊
 
-When I'm not working, you can find me indulging in my hobbies like listening to podcasts, enjoying a good cup of coffee, and watching sports. I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
+When I'm not working, you can find me indulging in my hobbies like listening to podcasts, enjoying a good cup of coffee, and watching sports.
+I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
 
-- 🔭 I’m currently working on some exciting personal projects 🤫 
+- 🔭 I’m currently working on some personal projects 🤫 
 - ☀️ You can find me working at Hilti during the day and doing some side hustle at B.P.R.D. during the night 🌙
 - 📫 Feel free to reach out to me through my social media handle `@eduellery` or using the contact badges below
 - 😊 My pronouns are He/Him
-- ⚡ Fun fact: I already run 2 marathons. For the last one, I trained my wife and we did it together 🏃‍♂️ 🏃‍♀️
+- ⚡ Fun fact: I have already run 2 marathons and going for the 3rd. At least once, I trained with my wife and we both ran together 🏃‍♂️ 🏃‍♀️
 
 _"Machines are talking about you behind your back"_ - Douglas Coupland
 
