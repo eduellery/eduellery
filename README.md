@@ -9,7 +9,7 @@ I used to be an avid comic book reader, but nowadays I spend most of my free tim
 - ☀️ You can find me working at Hilti during the day and doing some side hustle at B.P.R.D. during the night 🌙
 - 📫 Feel free to reach out to me through my social media handle `@eduellery` or using the contact badges below
 - 😊 My pronouns are He/Him
-- ⚡ Fun fact: I have already run 2 marathons and going for the 3rd. At least once, I trained with my wife and we both ran together 🏃‍♂️ 🏃‍♀️
+- ⚡ Fun fact: I have already run 3 marathons. In 2019, I trained with my wife and we both ran together 🏃‍♂️ 🏃‍♀️
 
 _"Machines are talking about you behind your back"_ - Douglas Coupland
 
