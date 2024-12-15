@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-My name is Eduardo Ellery and I'm a Tech Lead, previously working as a Software Architect/Engineer with experience as an Engineering Manager.
-I have a passion for leading technical teams and delivering high-quality software solutions. 😊
+My name is Eduardo Ellery and I'm a Principal Engineer passionate about leading technical teams and delivering high-quality software solutions. 😊
 
 When I'm not working, you can find me indulging in my hobbies like listening to podcasts, enjoying a good cup of coffee, and watching sports.
 I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
