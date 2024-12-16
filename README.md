@@ -2,12 +2,13 @@
 
 My name is Eduardo Ellery and I'm a Principal Engineer passionate about leading technical teams and delivering high-quality software solutions. 😊
 
-When I'm not working, you can find me indulging in my hobbies like listening to podcasts, enjoying a good cup of coffee, and watching sports.
+When I'm not working, I indulge in hobbies like listening to podcasts, enjoying a good cup of coffee, and watching sports.
 I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
 
-- 🔭 I’m currently working on some personal projects 🤫 
-- ☀️ You can find me working at Hilti during the day and doing some side hustle at B.P.R.D. during the night 🌙
-- 📫 Feel free to reach out to me through my social media handle `@eduellery` or using the contact badges below
+- 🔭 I’m always working on some personal projects 🤫
+- 🌱 I’m currently learning Rust
+- ☀️ You can find me working at Hilti during the day, and doing some side hustle for BPRD at night 🌙
+- 📫 Feel free to reach out to me on my social media handle `@eduellery` or using the contact badges below
 - 😊 My pronouns are He/Him
 - ⚡ Fun fact: I have already run 3 marathons. In 2019, I trained with my wife and we both ran together 🏃‍♂️ 🏃‍♀️
 
