@@ -6,7 +6,7 @@ When I'm not working, I indulge in hobbies like listening to podcasts, enjoying 
 I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
 
 - 🔭 I’m always working on some personal projects 🤫
-- 🌱 I’m currently learning Rust and Zig
+- 🌱 I’m investing my time in Rust and Zig
 - ☀️ You can find me working at Hilti during the day, and doing some side hustle for BPRD at night 🌙
 - 📫 Feel free to reach out to me on my social media handle `@eduellery` or using the contact badges below
 - 😊 My pronouns are He/Him
