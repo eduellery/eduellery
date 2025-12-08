@@ -6,7 +6,7 @@ When not working, I indulge in hobbies like listening to podcasts, enjoying coff
 I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
 
 - 🔭 I’m always working on some personal projects 🤫
-- 🌱 I’m investing my time in Rust and Zig
+- 🌱 I’m catching up with some unfinished projects
 - ☀️ You can find me working at Hilti during the day, and doing some side hustle for BPRD at night 🌙
 - 📫 Feel free to reach out to me using the contact badges below
 - 😊 My pronouns are He/Him
