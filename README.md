@@ -6,8 +6,8 @@ When not working, I indulge in hobbies like listening to podcasts, enjoying coff
 I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
 
 - 🔭 I’m always working on some personal projects
-- 📚 I’m reading _The Final Empire_
-- 🎥 I'm watching _Silo_
+- 📚 I’m reading _The Final Empire_ (fiction) and re-reading _Clean Code_ (the new edition)
+- 🎥 I'm watching ~_Silo_~ (just watched season finale!). Now focusing on _Lanterns_
 - 📫 Feel free to reach out to me using the contact badges below
 - 😊 My pronouns are He/Him
 - 💡 Fun fact: I have run 3 marathons. In 2019, I trained with my wife and we both ran together 🏃‍♂️ 🏃‍♀️
