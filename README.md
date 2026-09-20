@@ -6,7 +6,7 @@ When not working, I indulge in hobbies like listening to podcasts, enjoying coff
 I used to be an avid comic book reader, but nowadays I spend most of my free time with my daughter 👧, who is the most important person in my life. 🥰
 
 - 🔭 I’m always working on some personal projects
-- 📚 I’m reading _The Final Empire_ (fiction) and re-reading _Clean Code_ (the new edition, technical)
+- 📚 I’m reading ~_The Final Empire_ (fiction)~ (paused to read _Native Son_ per my wife request) and re-reading _Clean Code_ (the new edition, technical)
 - 🎥 I'm watching _Lanterns_ and _Slow Horses_ (best spy show since "The Americans")
 - 🕹️ I'm playing _Celeste_
 - 📫 Feel free to reach out to me using the contact badges below
