@@ -8,7 +8,7 @@ I used to be an avid comic book reader, but nowadays I spend most of my free tim
 - 🔭 I’m always working on some personal projects
 - 📚 I’m reading ~_The Final Empire_ (fiction)~ (paused to read _Native Son_ per my wife request) and re-reading _Clean Code_ (the new edition, technical)
 - 🎥 I'm watching _The Apothecary Diaries_
-- 🕹️ I'm playing _Super Mario Wonders_ on Switch 2 and _Celeste_ on Steam
+- 🕹️ I'm playing _Zelda: Ocarina of Time_ on Switch 2 and _Celeste_ on Steam
 - 📫 Feel free to reach out to me using the contact badges below
 - 😊 My pronouns are He/Him
 - 💡 Fun fact: I have run 3 marathons. In 2019, I trained with my wife and we both ran together 🏃‍♂️ 🏃‍♀️
